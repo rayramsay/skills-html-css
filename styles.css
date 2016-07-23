@@ -1,2 +1,14 @@
-/* Your CSS goes here */
+/* css took roughly 10 min */
 
+input {
+    background-color: yellow;
+}
+
+p {
+    border: black solid 1px;
+    padding: 10px;
+    }
+
+#lastname {
+    font-weight: bold;
+}
